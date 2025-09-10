@@ -4,5 +4,4 @@
 
 
 # Shared notes
-- [[30 Areas/33 Permanent notes/33.09 AI Notes/Ben Greenfield about Urolithin A\|Ben Greenfield about Urolithin A]]
-- [[30 Areas/33 Permanent notes/33.09 AI Notes/All about Urolithin A\|All about Urolithin A]]
+- [[30 Areas/33 Permanent notes/33.09 AI Notes/Милитаризация ЕС\|Милитаризация ЕС]]
