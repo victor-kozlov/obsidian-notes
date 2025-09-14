@@ -5,3 +5,4 @@
 
 # Shared notes
 - [[30 Areas/33 Permanent notes/33.09 AI Notes/Милитаризация ЕС\|Милитаризация ЕС]]
+- [[30 Areas/33 Permanent notes/33.10 Web Clippings/Your Zodiac Sign Is 2,000 Years Out of Date\|Your Zodiac Sign Is 2,000 Years Out of Date]]
