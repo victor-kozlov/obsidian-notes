@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-areas/33-permanent-notes/33-10-web-clippings/your-zodiac-sign-is-2-000-years-out-of-date/","title":"Your Zodiac Sign Is 2,000 Years Out of Date","tags":["clippings"],"created":"2025-09-14T11:55:47.202+02:00"}
+{"dg-publish":true,"permalink":"/30-areas/33-permanent-notes/33-10-web-clippings/your-zodiac-sign-is-2-000-years-out-of-date/","title":"Your Zodiac Sign Is 2,000 Years Out of Date","tags":["clippings"],"created":"2025-09-16T02:49:52.000+08:00"}
 ---
 
 
