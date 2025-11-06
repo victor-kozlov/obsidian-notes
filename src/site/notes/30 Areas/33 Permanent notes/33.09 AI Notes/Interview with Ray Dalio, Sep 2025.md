@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-areas/33-permanent-notes/33-09-ai-notes/interview-with-ray-dalio-sep-2025/","title":"Interview with Ray Dalio, Sep 2025","tags":["historical-cycles","radical-transparency","principled-decision-making","civilizational-decline","business-literature","history","economics","personal-development"],"created":"2025-09-17T03:25:44.000+08:00"}
+{"dg-publish":true,"permalink":"/30-areas/33-permanent-notes/33-09-ai-notes/interview-with-ray-dalio-sep-2025/","title":"Interview with Ray Dalio, Sep 2025","tags":["historical-cycles","radical-transparency","principled-decision-making","civilizational-decline","business-literature","history","economics","personal-development"],"created":"2025-09-16T14:38:11.627+02:00"}
 ---
 
 # SUMMARY

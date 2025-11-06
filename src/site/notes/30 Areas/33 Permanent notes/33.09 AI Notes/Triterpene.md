@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-areas/33-permanent-notes/33-09-ai-notes/triterpene/","created":"2025-11-04T08:49:00.546+08:00"}
+{"dg-publish":true,"permalink":"/30-areas/33-permanent-notes/33-09-ai-notes/triterpene/","created":"2025-11-04T01:49:00.546+01:00"}
 ---
 
 Triterpenes, a class of natural compounds found in plants and fungi, have shown promising hepatoprotective, anti-inflammatory, and anti-fibrotic effects relevant to liver diseases including liver cirrhosis. Various studies indicate several triterpenes such as oleanolic acid, ursolic acid, and triterpenoids from Ganoderma lucidum exhibit beneficial effects on liver fibrosis and cirrhosis models.
