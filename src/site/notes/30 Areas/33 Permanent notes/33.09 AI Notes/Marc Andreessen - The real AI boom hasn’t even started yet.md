@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-areas/33-permanent-notes/33-09-ai-notes/marc-andreessen-the-real-ai-boom-hasn-t-even-started-yet/","created":"2026-01-30T17:26:54.966+01:00"}
+{"dg-publish":true,"permalink":"/30-areas/33-permanent-notes/33-09-ai-notes/marc-andreessen-the-real-ai-boom-hasn-t-even-started-yet/","created":"2026-01-30T17:26:54.966+01:00","dg-note-properties":{"modified":"30.01.2026  17:29"}}
 ---
 
 ## ИДЕИ

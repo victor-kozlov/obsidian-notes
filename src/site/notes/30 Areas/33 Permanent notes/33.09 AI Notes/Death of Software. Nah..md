@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-areas/33-permanent-notes/33-09-ai-notes/death-of-software-nah/","title":"Death of Software. Nah.","tags":["permanent_notes"],"created":"2026-02-08T15:48:11.772+01:00"}
+{"dg-publish":true,"permalink":"/30-areas/33-permanent-notes/33-09-ai-notes/death-of-software-nah/","title":"Death of Software. Nah.","tags":["permanent_notes"],"created":"2026-02-08T15:48:11.772+01:00","dg-note-properties":{"title":"Death of Software. Nah.","aliases":["DEATH OF SOFTWARE. NAH.","death of software. nah.","Death of Software. Nah."],"tags":["permanent_notes"],"modified":"08.02.2026  16:41","created":"27.08.2025  11:12"}}
 ---
 
 Источник:​
