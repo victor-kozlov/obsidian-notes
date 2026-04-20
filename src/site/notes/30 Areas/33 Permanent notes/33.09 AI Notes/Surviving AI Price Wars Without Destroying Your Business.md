@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-areas/33-permanent-notes/33-09-ai-notes/surviving-ai-price-wars-without-destroying-your-business/","title":"Surviving AI Price Wars Without Destroying Your Business","tags":["permanent_notes"],"created":"2026-04-14T16:30:53.356+02:00","dg-note-properties":{"title":"Surviving AI Price Wars Without Destroying Your Business","aliases":["AI","ai","AI"],"tags":["permanent_notes"],"modified":"14.04.2026  16:39","created":"27.08.2025  11:12"}}
+{"dg-publish":true,"permalink":"/30-areas/33-permanent-notes/33-09-ai-notes/surviving-ai-price-wars-without-destroying-your-business/","title":"Surviving AI Price Wars Without Destroying Your Business","tags":["permanent_notes"],"created":"2026-04-14T16:30:53.356+02:00","dg-note-properties":{"title":"Surviving AI Price Wars Without Destroying Your Business","aliases":["AI","ai","AI"],"tags":["permanent_notes"],"modified":"14.04.2026  16:40","created":"27.08.2025  11:12"}}
 ---
 
 
