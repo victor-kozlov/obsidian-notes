@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-meta/home/","tags":["gardenEntry"],"created":"04.09.2025  17:43","dg-note-properties":{"modified":"13.05.2026  13:37","created":"04.09.2025  17:43"}}
+{"dg-publish":true,"permalink":"/10-meta/home/","tags":["gardenEntry"],"created":"2010-01-01","dg-note-properties":{"modified":"13.05.2026  14:04","created":"04.09.2025  17:43","published":"2010-01-01"}}
 ---
 
 
@@ -11,7 +11,7 @@ filters:
     - note["dg-home"] != true
 formulas:
   Untitled: ""
-  Date: modified.slice(0, 10)
+  Date: date(published).format("DD.MM.YYYY")
 properties:
   file.name:
     displayName: Title
@@ -29,7 +29,7 @@ views:
       - file.name
       - description
     sort:
-      - property: file.ctime
+      - property: published
         direction: DESC
     columnSize:
       formula.Date: 135
