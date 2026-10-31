@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/new-founder-archetypes-in-the-ai-age/","created":"2026-10-30","ctime":"2026-10-30T19:35:23.328+01:00","mtime":"2026-10-30T19:37:32.038+01:00","dg-note-properties":{"modified":"2026-10-30T19:36","created":"2026-10-30T19:35","description":"резюме статьи Эндрю Чена из a16z «Новые архетипы основателей в эпоху ИИ»","published":"2026-10-30"}}
+{"dg-publish":true,"permalink":"/inbox/new-founder-archetypes-in-the-ai-age/","created":"2026-10-30","ctime":"2026-10-30T19:35:23.328+01:00","mtime":"2026-10-31T11:48:05.422+01:00","dg-note-properties":{"modified":"2026-10-31T11:48","created":"2026-10-30T19:35","description":"резюме статьи Эндрю Чена из a16z «Новые архетипы основателей в эпоху ИИ»","published":"2026-10-30"}}
 ---
 
 
